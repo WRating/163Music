@@ -1,0 +1,34 @@
+body {
+background-color:#fff;
+color:#fff;
+}
+
+a{
+    color: #fff;
+}
+
+.containner{
+    height: 90px;
+}
+.input-group{
+    width: 200px;
+    margin-top: 8px;
+}
+.images{
+    width: 220px;
+    height: 220px;
+}
+.kongge{
+    height: 100px;
+}
+.vertical-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    width: 220px;
+}
+.vertical-nav li{
+    font-size: 16px;
+    color: black;
+}
